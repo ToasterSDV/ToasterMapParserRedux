@@ -221,6 +221,13 @@ if __name__ == "__main__":
     if targetdir[-1] != "/":
         targetdir = targetdir + "/"
 
+    # make missing directories
+    savesDir = config["PATHS"]["project_root"] + "saves/"
+    if not os.path.exists(savesDir):
+        os.makedirs(savesDir)
+    if not os.path.exists(logpath):
+        os.makedirs(logpath)
+
     # find the manifests
     maniOut = manifestwalk(errorlist)
     maniList = maniOut[0]
