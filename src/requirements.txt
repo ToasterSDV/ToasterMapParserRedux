@@ -1,0 +1,4 @@
+binary2strings==0.1.9
+defusedxml==0.7.1
+pyjson5==1.6.3
+tqdm==4.65.0

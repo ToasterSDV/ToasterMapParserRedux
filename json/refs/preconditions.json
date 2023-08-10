@@ -1,0 +1,380 @@
+{
+    "*l": {
+        "Code": "*l",
+        "Condition": "Host and current player have not received mail ID {}",
+        "Inverted": "Host and current player have received mail ID {}",
+        "HasParams": true
+    },
+    "*n": {
+        "Code": "*n",
+        "Condition": "Host and current player have received mail ID {}",
+        "Inverted": "Host and current player have not received mail ID {}",
+        "HasParams": true
+    },
+    "A": {
+        "Code": "A",
+        "Condition": "Dialogue Event {} Not in Progress",
+        "Inverted": "Dialogue Event  {} is in progress",
+        "HasParams": true
+    },
+    "C": {
+        "Code": "C",
+        "Condition": "Host player has finished Community Center",
+        "Inverted": "Host player has not finished Community Center",
+        "HasParams": false
+    },
+    "D": {
+        "Code": "D",
+        "Condition": "Player is dating {}",
+        "Inverted": "Player is not dating {}",
+        "HasParams": true
+    },
+    "F": {
+        "Code": "F",
+        "Condition": "Today is not a Festival Day",
+        "Inverted": "Today is a Festival Day",
+        "HasParams": false
+    },
+    "H": {
+        "Code": "H",
+        "Condition": "Player is MultiPlayer Host",
+        "Inverted": "Player is not MultiPlayer Host",
+        "HasParams": false
+    },
+    "Hl": {
+        "Code": "Hl",
+        "Condition": "Host Player has not received mail ID {}",
+        "Inverted": "Host Player has received mail ID {}",
+        "HasParams": true
+    },
+    "Hn": {
+        "Code": "Hn",
+        "Condition": "Host Player has received mail ID {}",
+        "Inverted": "Host Player has not received mail ID {}",
+        "HasParams": true
+    },
+    "J": {
+        "Code": "J",
+        "Condition": "Player has finished Joja Warehouse",
+        "Inverted": "Player has not finished Joja Warehouse",
+        "HasParams": false
+    },
+    "L": {
+        "Code": "L",
+        "Condition": "Player is at FarmHouse, FarmHouse has Nursery",
+        "Inverted": "Player is not at FarmHouse or FarmHouse has no Nursery",
+        "HasParams": false
+    },
+    "M": {
+        "Code": "M",
+        "Condition": "Player has at least {} Money",
+        "Inverted": "Player has less than {} Money",
+        "HasParams": true
+    },
+    "O": {
+        "Code": "O",
+        "Condition": "Player is married to {}",
+        "Inverted": "Player is not married to {}",
+        "HasParams": true
+    },
+    "S": {
+        "Code": "S",
+        "Condition": "Player has seen Secret Note ID {}",
+        "Inverted": "Player has not seen Secret Note ID {}",
+        "HasParams": true
+    },
+    "U": {
+        "Code": "U",
+        "Condition": "No Festivals for next {} days",
+        "Inverted": "Festivals will occur within next {} days",
+        "HasParams": true
+    },
+    "a": {
+        "Code": "a",
+        "Condition": "Player is at tile x{} y{}",
+        "Inverted": "Player is not at tile x{} y{}",
+        "HasParams": true
+    },
+    "b": {
+        "Code": "b",
+        "Condition": "Player has reached bottom of Mines {} times",
+        "Inverted": "Player has reached bottom of Mines fewer than {} times",
+        "HasParams": true
+    },
+    "c": {
+        "Code": "c",
+        "Condition": "Player has {} free inventory slots",
+        "Inverted": "Player has fewer than {} free inventory slots",
+        "HasParams": true
+    },
+    "d": {
+        "Code": "d",
+        "Condition": "Today is not any of the following days: {}",
+        "Inverted": "Today is one of the following days: {}",
+        "HasParams": true
+    },
+    "e": {
+        "Code": "e",
+        "Condition": "Player has seen event ID(s) {}",
+        "Inverted": "Player has not seen event ID(s) {}",
+        "HasParams": true
+    },
+    "f": {
+        "Code": "f",
+        "Condition": "Player friendship levels meet or exceed {}",
+        "Inverted": "Player friendship levels are less than {}",
+        "HasParams": true
+    },
+    "g": {
+        "Code": "g",
+        "Condition": "Player gender is {}",
+        "Inverted": "Player gender is not {}",
+        "HasParams": true
+    },
+    "h": {
+        "Code": "h",
+        "Condition": "Player does not have a pet and pet preference is {}",
+        "Inverted": "Player does has a pet or pet preference is not {}",
+        "HasParams": true
+    },
+    "i": {
+        "Code": "i",
+        "Condition": "Player has {} in inventory",
+        "Inverted": "Player does not have {} in inventory",
+        "HasParams": true,
+        "_comment": "Item"
+    },
+    "j": {
+        "Code": "j",
+        "Condition": "Player has played at least {} days",
+        "Inverted": "Player has played less than {} days",
+        "HasParams": true
+    },
+    "k": {
+        "Code": "k",
+        "Condition": "Player has not seen event ID(s) {}",
+        "Inverted": "Player has seen event ID(s) {}",
+        "HasParams": true
+    },
+    "l": {
+        "Code": "l",
+        "Condition": "Player has not received mail ID {}",
+        "Inverted": "Player has received mail ID {}",
+        "HasParams": true
+    },
+    "m": {
+        "Code": "m",
+        "Condition": "Player has earned at least {} money in total",
+        "Inverted": "Player has not earned {} money in total",
+        "HasParams": true
+    },
+    "n": {
+        "Code": "n",
+        "Condition": "Player has received mail ID {}",
+        "Inverted": "Player has not received mail ID {}",
+        "HasParams": true
+    },
+    "o": {
+        "Code": "o",
+        "Condition": "Player is not married to {}",
+        "Inverted": "Player is married to {}",
+        "HasParams": true
+    },
+    "p": {
+        "Code": "p",
+        "Condition": "NPC {} is in player's location",
+        "Inverted": "NPC {} is not in player's location",
+        "HasParams": true
+    },
+    "q": {
+        "Code": "q",
+        "Condition": "Player has chosen answer(s) {} in a dialogue",
+        "Inverted": "Player has not chosen answer(s) {} in a dialogue",
+        "HasParams": true
+    },
+    "r": {
+        "Code": "r",
+        "Condition": "Random Probability check with chance of {}",
+        "Inverted": "Random Probability check with chance of {}",
+        "HasParams": true
+    },
+    "s": {
+        "Code": "s",
+        "Condition": "Player has shipped at at least {} {}",
+        "Inverted": "Player has not shipped at at least {} {}",
+        "HasParams": true,
+        "_comment": "Param output reversed from event format"
+    },
+    "t": {
+        "Code": "t",
+        "Condition": "Time is between {} and {}",
+        "Inverted": "Time is not between {} and {}",
+        "HasParams": true
+    },
+    "u": {
+        "Code": "u",
+        "Condition": "Day of the month is {}",
+        "Inverted": "Day of the month is not {}",
+        "HasParams": true
+    },
+    "v": {
+        "Code": "v",
+        "Condition": "NPC {} is not invisible",
+        "Inverted": "NPC {} is invisible",
+        "HasParams": true
+    },
+    "w": {
+        "Code": "w",
+        "Condition": "Weather is {}",
+        "Inverted": "Weather is not {}",
+        "HasParams": true
+    },
+    "x": {
+        "Code": "x",
+        "Condition": "Mark event seen and send letter {} tomorrow morning",
+        "Inverted": "Mark event seen and send letter {} tomorrow morning",
+        "HasParams": true
+    },
+    "y": {
+        "Code": "y",
+        "Condition": "Year is {}",
+        "Condition": "Year is {}",
+        "HasParams": true
+    },
+    "z": {
+        "Code": "z",
+        "Condition": "Current season is not {}",
+        "Inverted": "Current season is {}",
+        "HasParams": true
+    },
+    "B": {
+        "Code": "B",
+        "Condition": "Player is in bed",
+        "Inverted": "Player is not in bed",
+        "HasParams": false
+    },
+    "X": {
+        "Code": "X",
+        "Condition": "Community Center is not completed",
+        "Inverted": "Community Center is completed",
+        "HasParams": false
+    },
+    "N": {
+        "Code": "N",
+        "Condition": "Player has collected at least {} Golden Walnuts",
+        "Inverted": "Player has collected fewer than {} Golden Walnuts",
+        "HasParams": true
+    },
+    "NPCAt": {
+        "Code": "NPCAt",
+        "Condition": "NPC {} is at X{} Y{}",
+        "Inverted": "NPC {} is not at X{} Y{}",
+        "HasParams": true,
+        "_comment": "Expanded Preconditions Utilty"
+    },
+    "HasMod": {
+        "Code": "HasMod",
+        "Condition": "Mods installed {}",
+        "Inverted": "Mods not installed {}",
+        "HasParams": true,
+        "_comment": "Expanded Preconditions Utilty"
+    },
+    "SkillLevel": {
+        "Code": "SkillLevel",
+        "Condition": "Skill {} is at least level {}",
+        "Inverted": "Skill {} is below level {}",
+        "HasParams": true,
+        "_comment": "Expanded Preconditions Utilty"
+    },
+    "CommunityCenterComplete": {
+        "Code": "CommunityCenterComplete",
+        "Condition": "Community Center Complete",
+        "Inverted": "Community Center not Complete",
+        "HasParams": false,
+        "_comment": "Expanded Preconditions Utilty"
+    },
+    "JojaMartComplete": {
+        "Code": "JojaMartComplete",
+        "Condition": "Joja Warehouse Complete",
+        "Inverted": "Joja Warehouse not Complete",
+        "HasParams": false,
+        "_comment": "Expanded Preconditions Utilty"
+    },
+    "SeededRandom": {
+        "Code": "SeededRandom",
+        "Condition": "{}% Chance, offset {} for {} days",
+        "Inverted": "{}% Chance, offset {} for {} days",
+        "HasParams": true,
+        "_comment": "Expanded Preconditions Utilty"
+    },
+    "HasCookingRecipe": {
+        "Code": "HasCookingRecipe",
+        "Condition": "Player has unlocked Cooking Recipe {}",
+        "Inverted": "Player has not unlocked Cooking Recipe {}",
+        "HasParams": true,
+        "_comment": "Expanded Preconditions Utilty"
+    },
+    "HasCraftingRecipe": {
+        "Code": "HasCraftingRecipe",
+        "Condition": "Player has unlocked Crafting Recipe {}",
+        "Inverted": "Player has not unlocked Crafting Recipe {}",
+        "HasParams": true,
+        "_comment": "Expanded Preconditions Utilty"
+    },
+    "FarmHouseUpgradeLevel": {
+        "Code": "FarmHouseUpgradeLevel",
+        "Condition": "FarmHouse Upgrade Level {}",
+        "Inverted": "FarmHouse Upgrade below level {}",
+        "HasParams": true,
+        "_comment": "Expanded Preconditions Utilty"
+    },
+    "HasItem": {
+        "Code": "HasItem",
+        "Condition": "Player has {} in inventory",
+        "Inverted": "Player does not have {} in inventory",
+        "HasParams": true,
+        "_comment": "Expanded Preconditions Utilty, Item"
+    },
+    "SaveStat": {
+        "Code": "SaveStat",
+        "Condition": "Savegame Stat {} is {}",
+        "Inverted": "Savegame Stat {} is not {}",
+        "HasParams": true,
+        "_comment": "Custom EPU for Vanilla Shops."
+    },
+    "SaveStatEval": {
+        "Code": "SaveStatEval",
+        "Condition": "Savegame Stat equation {} evals True",
+        "Inverted": "Savegame Stat equation {} evals False",
+        "HasParams": true,
+        "_comment": "Custom EPU for Vanilla Shops, performs raw eval on SaveGame"
+    },
+    "HasItems": {
+        "Code": "HasItems",
+        "Condition": "Player has at least {} {} in inventory",
+        "Inverted": "Player does not have at least {} {} in inventory",
+        "HasParams": true,
+        "_comment": "Custom EPU for Vanilla Shops, Quantity, Name"
+    },
+    "HasToolLevel": {
+        "Code": "HasToolLevel",
+        "Condition": "Player has a tool at most level {} in inventory",
+        "Inverted": "Player does not have a tool at most level {} in inventory",
+        "HasParams": true,
+        "_comment": "Custom EPU for Vanilla Shops, 0|1|2|3|4"
+    },
+    "NotDoctor": {
+        "Code": "NotDoctor",
+        "Condition": "NPC {} does not have a doctor visit on the schedule today.",
+        "Inverted": "NPC {} has a doctor visit on the schedule today.",
+        "HasParams": true,
+        "_comment": "Custom EPU for Vanilla Shops"
+    },
+    "NotIsland": {
+        "Code": "NotIsland",
+        "Condition": "NPC {} is not at the Island Resort today.",
+        "Inverted": "NPC {} is at the Island Resort today.",
+        "HasParams": true,
+        "_comment": "Custom EPU for Vanilla Shops"
+    }
+}

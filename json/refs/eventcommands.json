@@ -1,0 +1,72 @@
+{
+    "addConversationTopic": {
+        "Code": "addConversationTopic",
+        "Description": "Start conversation topic {} lasting {} days.",
+        "HasParams": true
+    },
+    "addCookingRecipe": {
+        "Code": "addCookingRecipe",
+        "Description": "Grants Cooking recipe {}",
+        "HasParams": true
+    },
+    "addCraftingRecipe": {
+        "Code": "addCraftingRecipe",
+        "Description": "Grants Crafting blueprint {}",
+        "HasParams": true
+    },
+    "addMailReceived": {
+        "Code": "addMailReceived",
+        "Description": "Set Mail ID {} as received",
+        "HasParams": true
+    },
+    "addQuest": {
+        "Code": "addQuest",
+        "Description": "Adds quest ID {} to quest log",
+        "HasParams": true
+    },
+    "dump": {
+        "Code": "dump",
+        "Description": "Starts 10 Heart group event for {}",
+        "HasParams": true
+    },
+    "end": {
+        "Code": "end newDay",
+        "Description": "Ends event and starts New day",
+        "HasParams": false
+    },
+    "farmerEat": {
+        "Code": "farmerEat",
+        "Description": "Farmer eats {}",
+        "HasParams": true
+    },
+    "friendship": {
+        "Code": "friendship",
+        "Description": "Friendship with {} adjusted {} points",
+        "HasParams": true
+    },
+    "mail": {
+        "Code": "mail",
+        "Description": "Sends Mail ID {}",
+        "HasParams": true
+    },
+    "removeItem": {
+        "Code": "removeItem",
+        "Description": "Removes item ID {} from inventory",
+        "HasParams": true
+    },
+    "removeQuest": {
+        "Code": "removeQuest",
+        "Description": "Removes quest ID {} from quest log",
+        "HasParams": true
+    },
+    "rustyKey": {
+        "Code": "rustyKey",
+        "Description": "Grants player the rusty key (Sewer Key)",
+        "HasParams": false
+    },
+    "skippable": {
+        "Code": "skippable",
+        "Description": "Can be skipped",
+        "HasParams": false
+    }
+}

@@ -1,0 +1,286 @@
+This document exists so you can verify if you still need a specific framework mod in your loadout.
+If a mod is not listed here, you can safely remove it.
+spacechase0.JsonAssets:
+	Required by 45 Mods.
+	Optional for 4 Mods.
+cat.betterartisangoodicons:
+	Required by 3 Mods.
+ppja.artisanvalleymachinegoods:
+	Required by 6 Mods.
+DIGUS.MailFrameworkMod:
+	Required by 21 Mods.
+	Optional for 2 Mods.
+fwippy.champagnewishes:
+	Required by 2 Mods.
+DIGUS.ProducerFrameworkMod:
+	Required by 14 Mods.
+Cherry.ExpandedPreconditionsUtility:
+	Required by 5 Mods.
+	Optional for 4 Mods.
+PeacefulEnd.CustomCompanions:
+	Required by 8 Mods.
+Pathoschild.ContentPatcher:
+	Required by 36 Mods.
+	Optional for 6 Mods.
+LemurKat.EastScarpe.SMAPI:
+	Required by 1 Mods.
+	Optional for 1 Mods.
+DaisyNiko.Tilesheets:
+	Required by 2 Mods.
+Lumisteria.LumiTilesheetsIndoor:
+	Required by 1 Mods.
+Lumisteria.TtilesheetsOutdoor:
+	Required by 1 Mods.
+LemurKat.EastScarpe.CP:
+	Required by 3 Mods.
+Esca.FarmTypeManager:
+	Required by 12 Mods.
+Cherry.ShopTileFramework:
+	Required by 15 Mods.
+SuperAardvark.AntiSocial:
+	Required by 4 Mods.
+	Optional for 1 Mods.
+Esca.CustomNPCExclusions:
+	Required by 8 Mods.
+hootless.BusLocations:
+	Required by 3 Mods.
+Tarniyar.JA.GardenVillage:
+	Required by 1 Mods.
+spacechase0.SpaceCore:
+	Required by 8 Mods.
+Rafseazz.LASVSTF:
+	Required by 1 Mods.
+KAYA.JAMoreMead:
+	Required by 1 Mods.
+Digus.ProducerFrameworkMod:
+	Required by 13 Mods.
+Pathoschild.Automate:
+	Required by 1 Mods.
+Raffadax.Complete.Production.Expanded:
+	Required by 2 Mods.
+Raffadax.Complete.Production:
+	Required by 8 Mods.
+	Optional for 2 Mods.
+Rafseazz.RSVCC:
+	Required by 1 Mods.
+Rafseazz.RSVFTM:
+	Required by 1 Mods.
+Rafseazz.RSVJA:
+	Required by 1 Mods.
+Rafseazz.RSVMFM:
+	Required by 1 Mods.
+Rafseazz.RSVSTF:
+	Required by 1 Mods.
+Rafseazz.RidgesideVillage:
+	Required by 1 Mods.
+Rafseazz.RSVSAAT:
+	Required by 1 Mods.
+aedenthorn.ExtraMapLayers:
+	Required by 5 Mods.
+ZeroMeters.SAAT.Mod:
+	Required by 4 Mods.
+Raffadax.Trees:
+	Required by 2 Mods.
+ZeroMeters.SAAT.API:
+	Required by 2 Mods.
+FlashShifter.JA.SVE:
+	Required by 3 Mods.
+FlashShifter.SVE-FTM:
+	Required by 1 Mods.
+FlashShifter.SAAT.SVE:
+	Required by 1 Mods.
+FlashShifter.StardewValleyExpandedALL:
+	Required by 1 Mods.
+	Optional for 1 Mods.
+spacechase0.CustomNPCFixes:
+	Required by 3 Mods.
+	Optional for 1 Mods.
+Cherry.TrainStation:
+	Required by 3 Mods.
+Gervig91.StardewAquariumCP:
+	Required by 2 Mods.
+	Optional for 1 Mods.
+Cherry.StardewAquarium:
+	Required by 1 Mods.
+Tarniyar.JA.WalkToDesert:
+	Required by 1 Mods.
+Tarniyar.CP.WalkToDesert:
+	Required by 1 Mods.
+	Optional for 1 Mods.
+Tarniyar.JA.WalktoDesert:
+	Required by 1 Mods.
+tlitookilakin.AeroCore:
+	Required by 1 Mods.
+PurrplingCat.QuestFramework:
+	Required by 1 Mods.
+	Optional for 1 Mods.
+yri.yri:
+	Required by 1 Mods.
+Raffadax.NPCs:
+	Required by 1 Mods.
+Raffadax.Crops:
+	Required by 2 Mods.
+DIGUS.CustomCrystalariumMod:
+	Required by 1 Mods.
+DIGUS.CustomCaskMod:
+	Required by 1 Mods.
+aedenthorn.CustomOreNodes:
+	Required by 1 Mods.
+Satozaki.MillerTime:
+	Required by 1 Mods.
+Cherry.MultiYieldCrops:
+	Required by 3 Mods.
+Paritee.BetterFarmAnimalVariety:
+	Required by 1 Mods.
+alja.CCCB:
+	Required by 3 Mods.
+ppja.fruitsandveggies:
+	Required by 7 Mods.
+mizu.flowers:
+	Required by 5 Mods.
+paradigmnomad.morefood:
+	Required by 5 Mods.
+ppja.moretrees:
+	Required by 7 Mods.
+	Optional for 1 Mods.
+ppja.evenmorerecipes:
+	Required by 2 Mods.
+	Optional for 1 Mods.
+tlitookilakin.warpnetwork:
+	Required by 1 Mods.
+	Optional for 1 Mods.
+MoreFish:
+	Required by 2 Mods.
+	Optional for 2 Mods.
+spacechase0.jsonAssets:
+	Required by 1 Mods.
+misscoriel.eventrepeater:
+	Required by 1 Mods.
+FishingIslandNPC:
+	Required by 1 Mods.
+PFM.FishHatchery:
+	Required by 1 Mods.
+JA.FishHatchering:
+	Required by 1 Mods.
+BonsterTrees:
+	Required by 1 Mods.
+kildarien.farmertoflorist:
+	Required by 3 Mods.
+paradigmnomad.freshmeat:
+	Required by 4 Mods.
+ppja.artisanvalleyPFM:
+	Required by 1 Mods.
+SOJA.AncientCropsAddOn:
+	Required by 1 Mods.
+SOJA.ancientcrops:
+	Required by 1 Mods.
+ppja.KRSCP:
+	Required by 2 Mods.
+spacechase0.GenericModConfigMenu:
+	Optional for 6 Mods.
+Platonymous.ModUpdater:
+	Optional for 6 Mods.
+Platonymous.TMXLoader:
+	Optional for 1 Mods.
+SEnhanced.Shortcuts:
+	Optional for 1 Mods.
+minervamaga.CP.eemieMapRecolour:
+	Optional for 1 Mods.
+Lita.StarblueValley:
+	Optional for 1 Mods.
+Acerbicon.Recolor:
+	Optional for 1 Mods.
+stardewfoliageredone:
+	Optional for 1 Mods.
+stardewfoliageredonereshade:
+	Optional for 1 Mods.
+DaisyNiko.EarthyRecolour:
+	Optional for 1 Mods.
+Lemurkat.NPCJasper:
+	Optional for 1 Mods.
+FlashShifter.StardewValleyExpandedCP:
+	Optional for 6 Mods.
+flashshifter.GrampletonFields:
+	Optional for 1 Mods.
+megmom84.waterfilledgorge:
+	Optional for 1 Mods.
+Boogie.Mountain:
+	Optional for 1 Mods.
+grapeponta.VibrantPastoralRecolor:
+	Optional for 3 Mods.
+Bouhm.NPCMapLocations:
+	Optional for 3 Mods.
+ricehit.SDSMAPS:
+	Optional for 1 Mods.
+ricehit.SDSMPAS:
+	Optional for 1 Mods.
+LemurKat.EastScarpeCompanions:
+	Optional for 1 Mods.
+attonbomb.Beatrice:
+	Optional for 1 Mods.
+Lavender.Nagito:
+	Optional for 1 Mods.
+DestyNova.Mateo.CP:
+	Optional for 1 Mods.
+Tarniyar.TMX.GardenVillage:
+	Optional for 1 Mods.
+Tarniyar.JA.EasterBunny:
+	Optional for 1 Mods.
+Entoarox.EntoaroxFramework:
+	Optional for 1 Mods.
+SEnhanced.Forest:
+	Optional for 1 Mods.
+Rafseazz.RSVQF:
+	Optional for 1 Mods.
+PurrplingCat.CustomGiftDialogue:
+	Optional for 1 Mods.
+TheMightyAmondee.EventLimiter:
+	Optional for 1 Mods.
+Karmylla.ImmersiveMaps:
+	Optional for 1 Mods.
+flashshifter.GrandpasFarm:
+	Optional for 1 Mods.
+EduAnttunes.TownSchool.CP:
+	Optional for 1 Mods.
+grapeponta.VibrantPastoralSVE:
+	Optional for 1 Mods.
+Tanpoponoko.SeasonalOutfits:
+	Optional for 3 Mods.
+Gweniaczek.Medieval_Craftables:
+	Optional for 1 Mods.
+Rose.craftables:
+	Optional for 1 Mods.
+Lemurkat.JacobEloise.CP:
+	Optional for 1 Mods.
+Tarniyar.CP.GardenVillage:
+	Optional for 1 Mods.
+pathoschild.ContentPatcher:
+	Optional for 1 Mods.
+DaisyNiko.EarthyInterface:
+	Optional for 1 Mods.
+Amaryn.OvergrownFloweryInterface:
+	Optional for 1 Mods.
+ManaKirel.VMI:
+	Optional for 1 Mods.
+ManaKirel.VintageInterface2:
+	Optional for 1 Mods.
+Maythorn.VintageInterfaceMultipack:
+	Optional for 1 Mods.
+BeneathThePlass.StarrySkyInterfaceCP:
+	Optional for 1 Mods.
+Wolf.Marlon:
+	Optional for 1 Mods.
+gizzymo.canonfriendlyexpansion:
+	Optional for 2 Mods.
+DSVTeam.DiverseSeasonalOutfits:
+	Optional for 2 Mods.
+farmerjack.dialogue_expansions:
+	Optional for 1 Mods.
+lemurkat.Jasmineno:
+	Optional for 1 Mods.
+LemurKat.Mr.Ginger.NPC:
+	Optional for 1 Mods.
+tenthousandcats.ImmersiveCShane:
+	Optional for 1 Mods.
+SOJA.artisanvalleyPFM:
+	Optional for 1 Mods.
